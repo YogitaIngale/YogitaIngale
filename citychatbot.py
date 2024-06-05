@@ -61,7 +61,7 @@ def get_response(query):
     similarities = cosine_similarity(query_vec, tfidf_matrix).flatten()
     best_match_idx = np.argmax(similarities)
     return df.iloc[best_match_idx]
-
+#1
 def chat():
     print("Welcome to the City Chat-Bot! Ask me anything about the city.")
     while True:

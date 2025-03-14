@@ -1,7 +1,8 @@
      Hi 👽, I’m YOGITA ;
  # 💫 About Me:
- -👀 I’m interested in programming languages like java and python;<br> Currently working on java- spring boot project<br>
- - learning the advance react.js,br.
+ -👀 I’m interested in programming languages like java and python;<br> 
+ -Currently working on java- spring boot project<br>
+ - learning the advance react.js<br>
  -🌱 Pursuing Masters in Computer Science;<br>
  -⚡ Life fact:Love Yourself
 

@@ -4,7 +4,7 @@
  -🤓 Currently working on java-spring boot project<br>
  -🤩 Exploring and learning advanced React.js<br>
  -🌱 Completed a Master’s degree in Computer Science;<br>
- -⚡ Life fact:Love Yourself, Always!
+ -⚡ Life fact:Love Yourself, Always!<br>
 
 
 

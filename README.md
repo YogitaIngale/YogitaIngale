@@ -1,14 +1,29 @@
-   Hi, I'm YOGITA.
+# Hi, I'm YOGITA!
 
-## About Me
+### 👩‍💻 About Me
 
-* Passionate about programming with a strong interest in Java and Python.
-* Currently building projects with Java and Spring Boot.
-* Exploring and learning advanced React.js.
-* Always curious, always learning, always building.
-* Life fact: Love Yourself, Always!
+* 💻 Passionate about **Java & Python** programming
+* ☕ Building backend applications with **Java & Spring Boot**
+* ⚛️ Exploring and learning **advanced React.js**
+* 🎓 **M.Sc. Computer Science Graduate**
+* 🗄️ Interested in **REST APIs, SQL, PostgreSQL & Backend Development**
+* 🤖 Exploring **AI, Generative AI & Python**
+* 🌱 Always learning, building, and improving
+* ✨ **Life fact: Love Yourself, Always!**
 
-Let's connect and build something great together. I'm passionate about backend development and creating applications that are reliable, useful, and scalable.
+### 🛠️ Tech I'm Working With
+
+**Java** • **Spring Boot** • **Python** • **React.js** • **JavaScript** • **SQL** • **PostgreSQL** • **REST APIs** • **Git & GitHub**
+
+### 💡 What I Love
+
+Building applications, solving problems, learning new technologies, and turning ideas into real-world projects.
+
+### 🤝 Let's Connect
+
+I'm always interested in **learning, collaborating, and building something meaningful together.**
+
+> 🚀 **Code. Learn. Build. Grow.**
 
 
 

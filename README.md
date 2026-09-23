@@ -1,10 +1,15 @@
-     Hi 😇, I’m YOGITA ;
- #  About Me:
- -👀 Passionate about programming with strong interest in Java and Python;<br> 
- -🤓 Currently working on java-spring boot project<br>
- -🤩 Exploring and learning advanced React.js<br>
- -🌱 Completed a Master’s degree in Computer Science;<br>
- -⚡ Life fact:Love Yourself, Always!<br>
+   Hi, I'm YOGITA.
+
+## About Me
+
+* Passionate about programming with a strong interest in Java and Python.
+* Currently building projects with Java and Spring Boot.
+* Exploring and learning advanced React.js.
+* Always curious, always learning, always building.
+* Life fact: Love Yourself, Always!
+
+Let's connect and build something great together. I'm passionate about backend development and creating applications that are reliable, useful, and scalable.
+
 
 
 

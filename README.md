@@ -5,7 +5,6 @@
 * 💻 Passionate about **Java & Python** programming
 * ☕ Building backend applications with **Java & Spring Boot**
 * ⚛️ Exploring and learning **advanced React.js**
-* 🎓 **M.Sc. Computer Science Graduate**
 * 🗄️ Interested in **REST APIs, SQL, PostgreSQL & Backend Development**
 * 🤖 Exploring **AI, Generative AI & Python**
 * 🌱 Always learning, building, and improving
